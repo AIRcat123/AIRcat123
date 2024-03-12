@@ -1,0 +1,47 @@
+{
+    "title": "AIRNEKO05主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "AIRNKEO05,个人主页",
+    "author": "Aurora",
+    "logo_img": "./img/icon/avatar1.jpg",
+    "logo_text_1": "airneko",
+    "logo_text_2": "com",
+    "github": "XTKUY",
+    "qq": "无",
+    "twitter": "#",
+    "email": "doggies.01-joiner@icloud.com",
+    "bilibili": "151035733",
+    "facebook": "bottom_user",
+    "link_1": [
+        "https://www.airneko05.com/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://www.airneko05.com/photos",
+        "fa-solid fa-camera",
+        "摄影"
+    ],
+    "link_3": [
+        "https://anitabi.cn/map",
+        "fa-solid fa-map",
+        "巡礼地图 by 卜卜口"
+    ],
+    "link_4": [
+        "#",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "link_5": [
+        "#",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "link_6": [
+        "#",
+        "fa-solid fa-flask",
+        "敬请期待..."
+    ],
+    "Copyright_text": "Aurora"
+    
+}
